@@ -1,0 +1,34 @@
+GitHub Upload Steps - Copy Paste This Content:
+
+Step 1: Create First File
+- Click "creating a new file" 
+- File name: README.md
+- Content: HTML Runner - Android App to run HTML code
+- Click "Commit new file"
+
+Step 2: Upload All Files
+After first file is created, you'll see upload option:
+- Click "Add file" → "Upload files"
+- Drag all HTMLRunner folder contents
+- Or click "choose your files" and select all
+
+Files to Upload:
+✓ app/ (entire folder)
+✓ gradle/ (entire folder) 
+✓ .github/ (entire folder)
+✓ build.gradle
+✓ settings.gradle
+✓ gradle.properties
+✓ gradlew
+✓ gradlew.bat
+
+Step 3: Commit
+- Commit message: "Add Android HTML Runner app"
+- Click "Commit changes"
+
+Step 4: Check Actions
+- Go to Actions tab
+- Wait for green checkmark
+- Download APK from Artifacts
+
+That's it! APK will be ready in 5-10 minutes.
